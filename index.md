@@ -3,7 +3,7 @@ ICT Application Development Student
 
 📍 Cape Town, South Africa  
 📧 khinasesiphesihle@gmail.com  
-📞 064 848 2130  
+📞 064 848 2130 
 
 ---
 
