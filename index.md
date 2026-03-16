@@ -1,74 +1,57 @@
 # Siphesihle Khinase
 ICT Application Development Student
 
+<table>
+<tr>
+<td width="40%" valign="top">
+
+## Contact
 📍 Cape Town, South Africa  
+📞 064 848 2130  
 📧 khinasesiphesihle@gmail.com  
-📞 064 848 2130 
-
----
-
-## Objective
-
-ICT Application Development student seeking a Work-Integrated Learning (WIL) placement where I can apply my knowledge of Java and web technologies while gaining industry experience.
-
----
-
-## Education
-
-**Cape Peninsula University of Technology (CPUT)**  
-Diploma in ICT Application Development  
-2024 – Present
-
-**Dangwana Senior Secondary School**  
-National Senior Certificate  
-2022
-
----
 
 ## Technical Skills
-
-- Java  
-- HTML  
-- CSS  
-- JavaScript  
-- PHP  
-- MySQL  
-
----
-
-## Academic Projects
-
-### Application Tracking System (ATS)
-Java application that helps students identify courses they qualify for before applying.
-
-- Designed two front-end screens  
-- Connected application to a MySQL database  
-
-### One Love Website
-
-Website developed for an orphanage to improve visibility and encourage donations and volunteering.
-
----
-
-## Volunteer Experience
-
-### Montelo Solar – Front-End Developer
-November 2025 – Present
-
-- Designing the client-side of a solar e-commerce platform
-- Improving user interface and user experience
-
----
+- Java
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
 
 ## Soft Skills
+- Communication
+- Teamwork
+- Problem-solving
+- Time management
 
-- Communication  
-- Teamwork  
-- Problem-solving  
-- Time management  
+</td>
 
----
+<td width="60%" valign="top">
 
-## References
+## Objective
+ICT Application Development student seeking a Work-Integrated Learning placement where I can apply my knowledge of Java and web technologies.
 
-Available upon request
+## Education
+**CPUT**  
+Diploma in ICT Application Development  
+2024 – Present  
+
+**Dangwana S.S.S**  
+National Senior Certificate  
+2022  
+
+## Projects
+
+### Application Tracking System
+Java application helping students find courses they qualify for.
+
+### One Love Website
+Website for an orphanage to improve visibility and donations.
+
+## Volunteer Experience
+**Montelo Solar – Front-End Developer**  
+Designing the client-side interface for a solar e-commerce platform.
+
+</td>
+</tr>
+</table>
