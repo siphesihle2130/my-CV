@@ -6,51 +6,51 @@ ICT Application Development Student
 <td width="40%" valign="top">
 
 ## Contact <br>
-📍 Cape Town, South Africa   <br>
-*📞 064 848 2130   <br>
-*📧 khinasesiphesihle@gmail.com   <br>
+📍 Cape Town, South Africa   <br><br>
+📞 064 848 2130   <br>
+📧 khinasesiphesihle@gmail.com   <br><br><br>
 
-## Technical Skills
-- Java
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
+## Technical Skills<br><br>
+- Java<br>
+- HTML<br>
+- CSS<br>
+- JavaScript<br>
+- PHP<br>
+- MySQL<br><br><br>
 
-## Soft Skills
-- Communication
-- Teamwork
-- Problem-solving
-- Time management
+## Soft Skills<br><br>
+- Communication<br>
+- Teamwork<br>
+- Problem-solving<br>
+- Time management<br>
 
 </td>
 
 <td width="60%" valign="top">
 
-## Objective
-ICT Application Development student seeking a Work-Integrated Learning placement where I can apply my knowledge of Java and web technologies.
+## Objective<br><br>
+ICT Application Development student seeking a Work-Integrated Learning placement where I can apply my knowledge of Java and web technologies.<br><br><br>
 
-## Education
-**CPUT**  
-Diploma in ICT Application Development  
-2024 – Present  
+## Education<br><br>
+**CPUT**  <br>
+Diploma in ICT Application Development <br> 
+2024 – Present  <br><br>
 
-**Dangwana S.S.S**  
-National Senior Certificate  
-2022  
+**Dangwana S.S.S** <br> 
+National Senior Certificate  <br>
+2022  <br><br><br>
 
-## Projects
+## Projects<br><br>
 
-### Application Tracking System
-Java application helping students find courses they qualify for.
+### Application Tracking System<br><br>
+Java application helping students find courses they qualify for.<br>
 
-### One Love Website
-Website for an orphanage to improve visibility and donations.
+### One Love Website<br><br>
+Website for an orphanage to improve visibility and donations.<br>
 
-## Volunteer Experience
-**Montelo Solar – Front-End Developer**  
-Designing the client-side interface for a solar e-commerce platform.
+## Volunteer Experience<br><br>
+**Montelo Solar – Front-End Developer**  <br>
+Designing the client-side interface for a solar e-commerce platform.<br>
 
 </td>
 </tr>
