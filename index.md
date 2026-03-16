@@ -5,10 +5,10 @@ ICT Application Development Student
 <tr>
 <td width="40%" valign="top">
 
-## Contact
-*📍 Cape Town, South Africa  
-*📞 064 848 2130  
-*📧 khinasesiphesihle@gmail.com  
+## Contact <br>
+📍 Cape Town, South Africa   <br>
+*📞 064 848 2130   <br>
+*📧 khinasesiphesihle@gmail.com   <br>
 
 ## Technical Skills
 - Java
