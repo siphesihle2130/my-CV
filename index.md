@@ -1,5 +1,5 @@
 <div style="background-color: #002060; padding: 20px;">
-<h1 align="center"><span style="color:#CD9600; font-weight: 1000;">SIPHESIHLE </span> <span style="color:#FFFFFF; font-weight: 1000;">KHINASE</span></h1>
+<h1 align="center"><span style="color:#CD9600; font-weight: 900;">SIPHESIHLE </span> <span style="color:#FFFFFF; font-weight: 1000;">KHINASE</span></h1>
 <h3 align="center"><span style="color:#FFFFFF; font-weight: 600;">ICT STUDENT</span></h3>
 </div>
 
@@ -7,7 +7,7 @@
 <tr>
 <td width="40%" valign="top">
 
-#### **C0NTACT** 
+#### **C0NTACT** <br>
 - 064 848 2130
 - 230926177@mycput.ac.za
 - Belhar 23, cape town, SA
