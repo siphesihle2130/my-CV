@@ -68,3 +68,4 @@ contributing to real world software development projects. I am passinate about d
 - <aphiwetambo@gmail.com>
 - 076 867 5632
 
+Mock interview: <https://drive.google.com/file/d/1u1E7Gu37j_qCYVW3RSgCl0C8_Vsudd1g/view?usp=sharing>
