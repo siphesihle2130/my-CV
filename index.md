@@ -7,7 +7,7 @@
 I am an ICT application development student seeking for a Work Integrated
 Learning (WIL) placement. My primary objective is to apply my knowledge of
 Java and web technologies while gaining an industrial experience and
-contributing to real world software development projects.
+contributing to real world software development projects. I am passinate about developing softwares that could make lives easier.
 
 ### **EDUCATION**
 **Dangwana S.S.S**
