@@ -51,12 +51,12 @@ contributing to real world software development projects.
 ### **REFERENCES**
 **Susan Hendrics**
 - Self Employed
-- Honeysuzan29@gmail.com
+- <Honeysuzan29@gmail.com>
 - 084 577 7432
 
 **Aphiwe Tambo**
 - True Guard
-- aphiwetambo@gmail.com
+- <aphiwetambo@gmail.com>
 - 076 867 5632
 
 ## **TECHNICAL SKILLS**
