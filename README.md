@@ -84,6 +84,7 @@ To solve the problem, I conducted research by watching tutorial videos and visit
 ### **Results**
 After applying these changes, the CV was successfully displayed correctly on GitHub Pages with proper formatting, spacing, and structure. The headings appeared as expected, and the overall layout looked more professional.
 
+# **Mock interview**
 
 <video width="100%" controls>
   <source src="Mock interview.mp4" type="video/mp4">
@@ -115,5 +116,5 @@ The task was to design a CV using Markdown on GitHub, deploy it using GitHub Pag
 ### **Action**
 To resolve the issue, I asked for assistance in the student WhatsApp group and also conducted independent research online. Through this process, I learned how to correctly link and embed video files using HTML within a Markdown document. I then updated my code and ensured that the video file path and format were correct before republishing the page.
 
-###**Results**
+### **Results**
 After making the necessary corrections, I was able to successfully add the mock interview video to my CV and publish the page correctly. The video could be viewed and accessed through the GitHub Pages link. This experience improved my understanding of integrating multimedia content into web pages and strengthened my problem-solving skills.
