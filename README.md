@@ -1,4 +1,3 @@
-# my-CV
 
 # **SIPHESIHLE KHINASE**
 
