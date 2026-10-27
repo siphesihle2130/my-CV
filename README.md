@@ -122,26 +122,30 @@ After making the necessary corrections, I was able to successfully add the mock 
 # **SEMESETER 2 DELIVERABLES**
 ## **Agile Team Charter**
 ### **Evidence**
-<img src="./images/photo.jpg" alt="Sample Photo" width="300" style="display:block; margin:auto;">
+<img src="team-charter1.png" alt="Sample Photo" width="300" style="display:block; margin:auto;"><img src="team-charter2.png" alt="Sample Photo" width="300" style="display:block; margin:auto;">
 ### **Reflection**
 Our team charter set out who we were, how we would work and what we expected from each other while building PartLink, an online marketplace for buying and selling car parts. We agreed on roles, communication channels, meeting times, shared values such as respect and accountability, and how we would handle conflict. Writing it early was valuable because it turned vague good intentions into commitments we could point back to. What went well was that everyone had a say, which gave the team a sense of ownership. A challenge was that some of our rules, such as response times, were harder to keep once deadlines from other modules piled up. I learned that a charter is only useful if it is revisited, not filed away. Next time I would review it at the end of each sprint and adjust it based on what is actually working for the team.
 
 ## **User Stories and Tasks**
 ### **Evidence**
+<img src="use case1.png" alt="Sample Photo" width="300" style="display:block; margin:auto;"><img src="use-case2.png" alt="Sample Photo" width="300" style="display:block; margin:auto;">
 ### **Reflection**
 Writing user stories helped us look at PartLink through the eyes of its users rather than as a list of features. We wrote stories in the format “As a buyer or seller or stakeholder, I want [goal] so that [benefit]”, for example searching parts by make, model and year, or listing a part for sale in minutes. We then broke each story into smaller tasks such as designing the search page, building the listing form and testing it. What worked well was that stories kept us focused on user value and made the work easier to divide among team members. The difficult part was making stories small and clear enough to finish in one sprint, because some started out too big or vague. I learned the value of acceptance criteria, which gave us a shared definition of “done”. In future I would involve a real user earlier to check that our stories match actual needs.
 
 ## **Product Backlog**
 ### **Evidence**
+<img src="product-backlog.png" alt="Sample Photo" width="300" style="display:block; margin:auto;">
 ### **Reflection**
 The product backlog gave us one ordered list of everything PartLink might need, from the core features car part searching, listings, seller profiles, payments to nice-to-haves such as reviews and chat. Prioritising it forced us to decide what delivers the most value first, rather than building whatever seemed interesting. We used value versus effort method to rank items, and the highest-value items went to the top. What went well was seeing the whole product in one place and knowing it could change as we learned more. The challenge was disagreement about priorities, since each of us valued different features. I learned that prioritization should be based on user value and risk, not personal preference. Next time I would estimate items earlier and refine the backlog regularly so that the top items are always clear and ready to start.
 
 ## **Sprint Backlog**
 ### **Evidence**
+<img src="sprint-baklog.png" alt="Sample Photo" width="300" style="display:block; margin:auto;">
 ### **Reflection**
 The sprint backlog showed what we committed to in each sprint: the stories selected from the product backlog, broken into tasks with owners and a status of To Do, In Progress or Done. Planning the sprint made us realistic about how much we could achieve in the time available and who was responsible for what. What worked well was that the board made progress visible, so blockers were noticed quickly and the daily check-ins stayed short and useful. A challenge was over-committing in the first sprint, so some tasks carried over, and tasks were sometimes underestimated. From this I learned that velocity improves with experience, and that it is better to commit to less and finish it properly. In future sprints I would use our previous sprint’s results to plan more accurately and keep a small buffer for unexpected work.
 
 ## **Agile Logbook**
 ### **Evidence**
+<img src="logbook.png" alt="Sample Photo" width="300" style="display:block; margin:auto;">
 ### **Reflection**
 The logbook was our record of what we did each sprint: meetings, decisions, task progress, problems and lessons learned. Keeping it up to date helped me see how the project developed and made it easier to explain our decisions and individual contributions. What went well was that it gave us evidence of progress and made our retrospectives more honest, because we could look back at what actually happened rather than relying on memory. The main challenge was discipline: it was easy to let entries pile up and then write them from memory. I learned that short, regular entries are far more useful than long ones written late. Going forward I would update the log straight after each meeting, and I would use it to track the actions from retrospectives to check we really act on what we learn.
