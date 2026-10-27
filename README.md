@@ -117,3 +117,25 @@ To resolve the issue, I asked for assistance in the student WhatsApp group and a
 
 ### **Results**
 After making the necessary corrections, I was able to successfully add the mock interview video to my CV and publish the page correctly. The video could be viewed and accessed through the GitHub Pages link. This experience improved my understanding of integrating multimedia content into web pages and strengthened my problem-solving skills.
+
+
+# **SEMESETER 2 DELIVERABLES**
+## **Agile Team Charter**
+### **Evidence**
+### **Reflection**
+
+## **User Stories and Tasks**
+### **Evidence**
+### **Reflection**
+
+## **Product Backlog**
+### **Evidence**
+### **Reflection**
+
+## **Sprint Backlog**
+### **Evidence**
+### **Reflection**
+
+## **Agile Logbook**
+### **Evidence**
+### **Reflection**
