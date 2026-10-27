@@ -1,4 +1,4 @@
-<button type="button">Click Me!</button>
+<button type="button">jump to the second semester submission</button>
 # **SIPHESIHLE KHINASE**
 
 #### **ICT STUDENT**
