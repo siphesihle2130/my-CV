@@ -1,4 +1,5 @@
-<button type="button">jump to the second semester submission</button>
+<!-- <button type="button" onclick="">jump to the second semester submission</button> -->
+<button type="button" onclick="document.getElementById('semester2').scrollIntoView({behavior:'smooth'})">Jump to the second semester submission</button>
 # **SIPHESIHLE KHINASE**
 
 #### **ICT STUDENT**
@@ -118,6 +119,7 @@ To resolve the issue, I asked for assistance in the student WhatsApp group and a
 ### **Results**
 After making the necessary corrections, I was able to successfully add the mock interview video to my CV and publish the page correctly. The video could be viewed and accessed through the GitHub Pages link. This experience improved my understanding of integrating multimedia content into web pages and strengthened my problem-solving skills.
 
+<div id="semester2"></div>
 
 # **SEMESETER 2 DELIVERABLES**
 ## **Agile Team Charter**
